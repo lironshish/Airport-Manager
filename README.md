@@ -5,5 +5,5 @@
 ### The project deals with strings, structures, dynamic allocations, files, pointers to functions, linked lists, macros, bits, parameters to main and variadic functions. 
 ### Workspace:
 * ### Window environment
-* ### Visual studio software
+* ### Visual Studio software
 * ### C
